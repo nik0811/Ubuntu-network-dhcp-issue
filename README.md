@@ -8,7 +8,7 @@ sudo dhclient ens32
 
 
 ```
-aviuser@aviuser:~$ cat /etc/netplan/00-installer-config.yaml
+nikhil@nikhil:~$ cat /etc/netplan/00-installer-config.yaml
 network:
   ethernets:
     ens32:
